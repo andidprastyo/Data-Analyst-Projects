@@ -24,7 +24,7 @@
 
 ## Data Engineering
 
-🛠️ This section covers projects related to data engineering tasks, such as data extraction, data transformation, and data pipeline development.
+🛠️ This section covers projects related to data engineering tasks, such as data extraction and data pipeline development.
 
 ## Data Science
 

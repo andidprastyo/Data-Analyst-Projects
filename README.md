@@ -1,6 +1,6 @@
-# Data Analyst Projects
+# Data Science Projects
 
-📊 This repository contains a collection of Data Analyst projects showcasing various aspects of data analysis and manipulation.
+📊 This repository contains a collection of Data Science projects showcasing various aspects of data analysis and manipulation.
 
 ## Table of Contents
 

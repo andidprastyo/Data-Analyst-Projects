@@ -10,7 +10,7 @@ The data is provided by Dicoding and can be found [Gitub](https://github.com/dic
 
 ## Data Assesment 
 
-| DataFrame     | Data Tyoes       | Missing Values  | Duplicated Data | Innacurate Data |
+| DataFrame     | Data Types       | Missing Values  | Duplicated Data | Innacurate Data |
 |---------------|-------------------------|------------------------|-----------------------|----------------------------|
 | customer_df   | Age Column              | Gender Column (18 values) | 6 data                | Afe Column                |
 | orders_df     | order_date & delivery_date | -                   | -                     | -                          |

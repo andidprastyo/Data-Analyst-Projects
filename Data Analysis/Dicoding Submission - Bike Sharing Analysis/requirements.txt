@@ -1,4 +1,6 @@
 pandas
 numpy
+seaborn
+matplotlib
 plotly == 5.16.0
 streamlit == 1.26.0

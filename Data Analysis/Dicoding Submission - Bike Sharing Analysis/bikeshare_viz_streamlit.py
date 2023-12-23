@@ -8,8 +8,7 @@ from PIL import Image
 
 def background():
     st.set_page_config(layout="wide",
-                       page_title="Analysis Dashboard",
-                       page_icon=":rocket:",
+                       page_title="Bike Sharing Analysis Dashboard",
                        initial_sidebar_state="expanded")
 background()
 

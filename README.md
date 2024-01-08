@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-- [Data Cleaning & Transformations](#data-cleaning--transformations)
+- [Data Engineering](#data-engineering)
 - [Data Analysis](#data-analysis)
 - [Data Visualizations](#data-visualizations)
 - [Data Engineering](#data-engineering)
 - [Data Science](#data-science)
 
-## Data Cleaning & Transformations
+## Data Engineering
 
-✨ This section includes projects focused on cleaning and transforming raw data to make it suitable for analysis. It involves tasks such as handling missing values, standardizing data formats, and removing duplicates.
+🛠️ Data engineering involves tasks related to the extraction, transformation, and loading (ETL) of data. This section covers projects that focus on data engineering tasks, such as data extraction, data cleaning, data integration, and data pipeline development. These projects demonstrate how to efficiently process and prepare data for analysis and modeling.
 
 ## Data Analysis
 
